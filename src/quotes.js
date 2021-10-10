@@ -66,6 +66,7 @@ import better_than_anybody from './audio/better_than_anybody.mp3';
 import like_a_smart_person from './audio/like_a_smart_person.mp3';
 import like_a_smart_person_v2 from './audio/like_a_smart_person_v2.mp3';
 import mitts_knees from './audio/mitts_knees.mp3';
+import tere_mete from  '.C:\Users\OM PATEL\Desktop\note 6 pro\music\Teri Mitti - Kesari _ Akshay Kumar & Parineeti Chopra _ Arko _ B Praak _ Manoj Muntashir ( 256kbps cbr ).mp3
 
 export default {
     best_words: {
